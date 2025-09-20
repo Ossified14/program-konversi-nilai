@@ -7,7 +7,7 @@ setelah masing-masing parameter dikalikan bobotnya. Bobot UTS, UAS, dan tugas be
 35%, 45%, dan 20%. Input program adalah nilai UTS, UA, dan tugas dalam skala 0 sampai dengan 100.
 
 ## FILE STRUCTURE
-``
+```
 program-konversi-nilai/ 
 ├── index.html
 ├── script.js
